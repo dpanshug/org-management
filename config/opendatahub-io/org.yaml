@@ -41,6 +41,7 @@ orgs:
     - dlabaj
     - dibryant
     - dimakis
+    - dpanshug
     - durandom
     - erwangranger
     - etirelli
@@ -275,6 +276,7 @@ orgs:
         - DaoDaoNoCode
         - manaswinidas
         - pnaik1
+        - dpanshug
         privacy: closed
         repos:
           odh-dashboard: maintain
